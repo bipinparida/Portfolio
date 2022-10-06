@@ -52,7 +52,7 @@ nav ul li a::after{
     content: "";
     width: 0;
     height: 0.3rem;
-    background-color: #ff004f;
+    background-color:#0cf0e4;
     position: absolute;
     left: 0;
     bottom:0.4rem;
@@ -73,7 +73,7 @@ nav{
     font-size: 5.5rem;
 }
 .header-text h1 span{
-    color: #ff004f;
+    color:#0cf0e4;
 }
 /* ------------about---------- */
 #about{
@@ -121,7 +121,7 @@ nav{
     content:'';
     width: 0;
     height: 0.3rem;
-    background-color: #ff004f;
+    background-color: #0cf0e4;
     position: absolute;
     left: 0;
     bottom: 0;
@@ -135,7 +135,7 @@ nav{
     list-style: none;
 }
 .tab-contents ul li span{
-    color: #ed5384;
+    color: #0cf0e4;
 }
 .tab-contents{
     display: none;
@@ -185,7 +185,7 @@ nav{
     margin-top: 2rem;
 }
 .services-list div:hover{
-    background:#ff004f;
+    background:#0cf0e4;
     transform: translateY(-1rem);
 }
 /* -----------portfolio----------- */
@@ -213,7 +213,7 @@ nav{
 .layer{
     width: 100%;
     height: 0;
-    background:linear-gradient(rgba(0,0,0,0.6), #ff004f) ;
+    background:linear-gradient(rgba(0,0,0,0.6),#0cf0e4) ;
     border-radius:1rem ;
     position: absolute;
     left: 0;
@@ -237,7 +237,7 @@ nav{
 .layer a{
     font-size: 2rem;  
     text-decoration: none;
-    color: #ff004f;
+    color:#0cf0e4;
     margin-top: 2rem;
     line-height: 6rem;
     background: #fff;
@@ -254,7 +254,7 @@ nav{
     display: block;
     margin: 5rem auto;
     width: fit-content;
-    border: 1px solid #ff004f;
+    border: 1px solid#0cf0e4;
     padding: 1rem 2rem;
     border-radius: 0.6rem;
     text-decoration: none;
@@ -263,7 +263,7 @@ nav{
     transition: background 0.5s;
 }
 .seeMoreBtn:hover{
-    background:#ff004f ;
+    background:#0cf0e4 ;
 }
 
 
@@ -280,7 +280,7 @@ nav{
     margin-top: 2rem;
 }
 .contact-left p i{
-    color: #ff004f;
+    color:#0cf0e4;
 }
 .contact-left p a{
     text-decoration: none;
@@ -295,12 +295,12 @@ nav{
     transition: transform 0.5s;
 }
 .social-icon i:hover{
-    color:#ff004f;
+    color:#0cf0e4;
     transform: translateY(-0.5rem);
 }
 .cvBtn{
     display: inline-block;
-    background-color: #ff004f;  
+    background-color: #0cf0e4;  
     margin-top: 2rem;
 }
 
@@ -336,7 +336,7 @@ form .cvBtn{
     margin-top: 2rem;
 }
 .copyright i{
-    color: #ff004f;
+    color: #0cf0e4;
 }
 
 #msg{
@@ -374,7 +374,7 @@ nav .fa-solid{
         position: fixed;
         top: 0;
         right: 0;
-        background: #ff004f;
+        background: #0cf0e4;
         color: #080808;
         width: 60rem;
         height: 100vh;
